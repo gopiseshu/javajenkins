@@ -1,10 +1,4 @@
 pipeline {
-    aganet any
-    tools {
-        maven 'Maven3'
-    }
-
-}pipeline {
     agent any
     tools {
         maven 'Maven3'
